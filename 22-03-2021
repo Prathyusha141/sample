@@ -2,7 +2,15 @@
 =============
 -> Git
 	-> git-scm.com
+	-> git init
+	-> git add .
+	-> git commit -m "first commit"
 	-> repositry
 -> GitHub
+	-> create repositry new
+	-> change bydefault name main to master
+	-> create remote for that repository
+	-> git remote add origin "git repo url"
+	-> git remote origin master
 -> python
 -> aws
